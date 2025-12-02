@@ -1,0 +1,4 @@
+[submodule "colmap"]
+	path = colmap
+	url = https://github.com/ForestVisionTech/colmap.git
+	branch = arcd_dev
